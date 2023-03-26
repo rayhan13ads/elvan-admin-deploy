@@ -53270,7 +53270,7 @@ o=p.dy
 o=o.e.b!==B.R?o.gn(o):null
 o.toString
 if(o){s=1
-break}p.zD(A.bb_(A.f6("assets/audio/notification.wav"),null),B.x,!0)
+break}p.zD(A.bb_(A.f6("/assets/audio/notification.wav"),null),B.x,!0)
 p.f9(0)
 case 1:return A.z(q,r)}})
 return A.A($async$HS,r)}}
